@@ -6,14 +6,6 @@ Hi there!
 <br/>
 
 ![Divider](https://vaxerski.xyz/github/repos1.gif)
-**Hyprland** [ s ] is a dynamic tiling Wayland compositor built from the ground up and aiming to provide a nice experience for those seeking more.<br/>
-**Hypr** [ m ] is an X11 tiling window manager with unique features and a clean and expandable codebase.<br/>
-**Harakiri** [ f ] is a Minecraft Utility Mod for 1.12.2, aimed at anarchy servers. It has the best visuals, ever.<br/>
-**Holy6800** [ f ] is a simple but working HolyC compiler for the Motorola 6800.<br/>
-**Mosaic** [ f ] is a utility to make mosaics out of images with a few customization options, written in SFML.<br/>
-**ZoomWebcamFix** [ f ] was a fix that helped thousands of people whose webcams stopped working because of Zoom's poor code.<br/>
-**Civ4RPC** [ f ] is a simple Discord RPC info collector for CIV4:BtS<br/>
-*Just to name a few...*<br/>
 
 *f - finished, uf - unfinished, m - mature, s - stable*<br/><br/>
 
@@ -30,8 +22,7 @@ Well, I don't have to tell you all about them, but what I can tell you is that I
 <details>
   <summary><i>le footer</i></summary>
   
-   *Github* > well <br/>
-   *Mail* > oussamaouannassi [at] gmail.com <br/>
-   *Site* > https://wnoussama.net <br/><br/>
+   *Github* > https://github.com/WnOussama <br/>
+   *Mail* > oussamaouannassi [at] gmail.com <br/><br/>
   
 </details>
