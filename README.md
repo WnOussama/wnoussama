@@ -1,16 +1,37 @@
-## Hi there 👋
+![Welcome](https://vaxerski.xyz/github/TopGif.gif)
 
-<!--
-**WnOussama/wnoussama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Divider](https://vaxerski.xyz/github/aboutme2.gif)
+Hi there!
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Divider](https://vaxerski.xyz/github/repos1.gif)
+**Hyprland** [ s ] is a dynamic tiling Wayland compositor built from the ground up and aiming to provide a nice experience for those seeking more.<br/>
+**Hypr** [ m ] is an X11 tiling window manager with unique features and a clean and expandable codebase.<br/>
+**Harakiri** [ f ] is a Minecraft Utility Mod for 1.12.2, aimed at anarchy servers. It has the best visuals, ever.<br/>
+**Holy6800** [ f ] is a simple but working HolyC compiler for the Motorola 6800.<br/>
+**Mosaic** [ f ] is a utility to make mosaics out of images with a few customization options, written in SFML.<br/>
+**ZoomWebcamFix** [ f ] was a fix that helped thousands of people whose webcams stopped working because of Zoom's poor code.<br/>
+**Civ4RPC** [ f ] is a simple Discord RPC info collector for CIV4:BtS<br/>
+*Just to name a few...*<br/>
+
+*f - finished, uf - unfinished, m - mature, s - stable*<br/><br/>
+
+![Divider](https://vaxerski.xyz/github/repos2.gif)
+Well, I don't have to tell you all about them, but what I can tell you is that I have a lot of those.<br/><br/>
+
+![Divider](https://vaxerski.xyz/github/stats1.gif)
+![](https://raw.githubusercontent.com/wnoussama/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/wnoussama/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/wnoussama/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/wnoussama/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![Divider](https://vaxerski.xyz/github/divider.png)
+
+<details>
+  <summary><i>le footer</i></summary>
+  
+   *Github* > well <br/>
+   *Mail* > oussamaouannassi [at] gmail.com <br/>
+   *Site* > https://wnoussama.net <br/><br/>
+  
+</details>
