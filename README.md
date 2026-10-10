@@ -1,100 +1,28 @@
+![Welcome](https://vaxerski.xyz/github/TopGif.gif)
 
+![Divider](https://vaxerski.xyz/github/aboutme2.gif)
+Hi there!
 
-# Hi, I'm Oussama 👋
+<br/>
 
-**Software Engineering Student · Web Developer · Open-Source Enthusiast**
+![Divider](https://vaxerski.xyz/github/repos1.gif)
 
-</div>
+*f - finished, uf - unfinished, m - mature, s - stable*<br/><br/>
 
-<table>
-<tr>
-<td width="42%" valign="top">
+![Divider](https://vaxerski.xyz/github/repos2.gif)
+Well, I don't have to tell you all about them, but what I can tell you is that I have a lot of those.<br/><br/>
 
-<pre>
-:::::::::::-++#%%%%##%################*###########+-
-:::::::::-:=+#%%%%%%%%#############################=
-::::::-----+*#%%%%%%%#%%%%%%%%%%%%%################*
-:---------=*#%%%%%%%%%%%%%%%%%%%%%%%%%%#############
-----------+##%%%%%%@@%%%###****###%#%%%%%%%#########
-----------*#%%%%@@%#*+==---------=+*###%%%%%%#######
-----------*%%@@@%*=-:::::::::::::::--=**#%%%%#######
-----------#%@@@#=-:::::.::::::::::::::-=*#%%%%#####*
-----------#@@%+-:::::::::::::::::::::::--+*%%%%####*
----------=%@#--------:-----::::::::....::-+*%%%%###*
--------=-=##-=+++=++=-::..:::::::::::...::-**%%%%#**
------====+#+==-::::-==-:. .......:::::::::-=*#%%%#*=
----------*#=-:::::....::.     .:-==----:::::+#%%#*-:
-:::::::::*=::---:::::.::... ..:::-----==-:::=%%%#===
---------==:-=++=*+*=-:-::::::..........:+=::=#%*====
-----------:----:--=------:--::::::...::::=-:=#*-----
-:::::::::::::.....::----::-----=-+=--::::---#*---=*#
-:::::::::::...:::::--:.. .:------=++=+=-:::+%=-+#@@@
-::::::::::::.....:::.-=:...:--:::..::---::-#+-%@@@@@
-:::----:::.......:-.-*+::*+.:-::.....:::::=+-+@@@@@%
-%%%@@@-::::....:::---:.::-+:.-.........:::#@@@@@@@@@
-%%%#%+:::::..:::--------::::-:.........::-=*@@@@@@@@
-##***-::::::::::::::::--::--:::......::::-.*@@@@@@@@
-****#+:::::::.:---------::::::::.....:::-::@@@@@@@@@
-*****=:-::::.:::---::-------::::....::::-:*@@@@@@@@%
-+****+---:::::::.:::--:::----::::::::::-:+**########
-******---::--:::..::--:::::::.::::::::-:-+**#######%
-****#**=-----:::::::::...::::::::::::-=+*****##+*###
-****#*#*===--:::::...::::::-::::-::--=#@#+++*#*++###
-*####**+--==---::::...::::----------==*@#+*+###%**##
-#####**=---====-----::::-----=-====++==@%*#*###*##*#
-######*--:---===---=============--=++==*%*###%#*####
-###%##+--::-----------====----::--==++=+@####%%#####
-###%%%=:::::---:..::::::::::::::--=+=+=+@#%#%%%#%%##
-%%%@@=-:::::::::...:::::.....:::--=%%#*%@#%%%%%%%%%#
-@%@@#:-:::.::::::.............:::-*#%@%@@%%#%%%%%%%%
-%%@@=:::::..::......... .......::*###%#%%%@%%%%%%%%%
-%%%#-:::::........      .......:*%###%#%%%%%%%%#%%%%
-%%%*:..:::.......       ......=##*#*#%##@%###%%%%%%%
-@%%*:...:::......  .  ... .:=*##*****@%#%@#####%%%@%
-####=:...::.........   ..-+*###**##**@%##@%####@@@@%
-*####*-::::........  .-=**#**###*##**%@##@%###%@%%@@
-</pre>
+![Divider](https://vaxerski.xyz/github/stats1.gif)
+![](https://raw.githubusercontent.com/wnoussama/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/wnoussama/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/wnoussama/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/wnoussama/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![Divider](https://vaxerski.xyz/github/divider.png)
 
-</td>
-<td valign="top">
-
-### `WnOussama` — Developer Profile
-
-- **OS:** macOS, Linux, Windows
-- **Focus:** Full-stack web development
-- **Languages:** JavaScript, TypeScript, Java, Python
-- **Web:** React, Next.js, Node.js, HTML, CSS
-- **Tools:** Git, GitHub, Docker, VS Code
-- **Interests:** Open source, automation, AI, clean code
-
-### Contact
-
-- **Email:** Add your email here
-- **LinkedIn:** [Add your LinkedIn](https://www.linkedin.com/)
-- **Portfolio:** [Add your portfolio URL](https://github.com/WnOussama)
-
-### GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=WnOussama&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WnOussama&layout=compact&theme=tokyonight&hide_border=true)
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### Pinned Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [Project One](https://github.com/WnOussama) | Replace with a project you built | TypeScript |
-| [Project Two](https://github.com/WnOussama) | Replace with a web app or developer tool | React |
-| [Project Three](https://github.com/WnOussama) | Replace with an API, automation, or AI project | Python |
-
-![Profile views](https://komarev.com/ghpvc/?username=WnOussama&style=flat-square&color=blue)
-
-</div>
+<details>
+  <summary><i>le footer</i></summary>
+  
+   *Github* > https://github.com/WnOussama <br/>
+   *Mail* > oussamaouannassi [at] gmail.com <br/><br/>
+  
+</details>
